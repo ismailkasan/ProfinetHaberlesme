@@ -1,0 +1,17 @@
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\ProfinetHaberlesme.exe
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\ProfinetHaberlesme.deps.json
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\ProfinetHaberlesme.runtimeconfig.json
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\ProfinetHaberlesme.dll
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\ProfinetHaberlesme.pdb
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\S7.Net.dll
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.csproj.AssemblyReference.cache
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.AssemblyInfoInputs.cache
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.AssemblyInfo.cs
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.csproj.CoreCompileInputs.cache
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.csproj.CopyComplete
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.dll
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\refint\ProfinetHaberlesme.dll
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.pdb
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.genruntimeconfig.cache
+C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ref\ProfinetHaberlesme.dll

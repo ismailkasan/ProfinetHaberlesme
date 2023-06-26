@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3OPTJn5q/bkBMj/WG3YOjH/+OfE4aOh36fnaBpSkOvuLHgQjV/ePZ5vd2/td565BjwomPjGD+t6XxTRemyZruw==",
+  "dgSpecHash": "9zHUk7mjVkcEhocsy8moJHw69GFZxX/BRwtEEmwBQK8LMI4QB8If4YqisyOtMTvt6oM82RAsM3P/FLntBI+SJQ==",
   "success": true,
   "projectFilePath": "C:\\Ismail Projects\\ProfinetHaberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ismailkasan\\.nuget\\packages\\s7netplus\\0.18.0\\s7netplus.0.18.0.nupkg.sha512"
+  ],
   "logs": []
 }
