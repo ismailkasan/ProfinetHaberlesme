@@ -15,3 +15,20 @@ C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\refint
 C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.pdb
 C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.genruntimeconfig.cache
 C:\Ismail Projects\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ref\ProfinetHaberlesme.dll
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\ProfinetHaberlesme.exe
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\ProfinetHaberlesme.deps.json
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\ProfinetHaberlesme.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\ProfinetHaberlesme.dll
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\ProfinetHaberlesme.pdb
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\bin\Debug\net6.0\S7.Net.dll
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.csproj.CopyComplete
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.dll
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\refint\ProfinetHaberlesme.dll
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.pdb
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ProfinetHaberlesme.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\Profinet_Haberlesme\ProfinetHaberlesme\ProfinetHaberlesme\obj\Debug\net6.0\ref\ProfinetHaberlesme.dll

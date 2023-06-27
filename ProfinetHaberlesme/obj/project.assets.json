@@ -5,14 +5,10 @@
       "S7netplus/0.18.0": {
         "type": "package",
         "compile": {
-          "lib/net5.0/S7.Net.dll": {
-            "related": ".xml"
-          }
+          "lib/net5.0/S7.Net.dll": {}
         },
         "runtime": {
-          "lib/net5.0/S7.Net.dll": {
-            "related": ".xml"
-          }
+          "lib/net5.0/S7.Net.dll": {}
         }
       }
     }
@@ -44,23 +40,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ismailkasan\\.nuget\\packages\\": {},
+    "C:\\Users\\burak\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ismail Projects\\ProfinetHaberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme.csproj",
+      "projectUniqueName": "C:\\Users\\burak\\OneDrive\\Masaüstü\\Profinet_Haberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme.csproj",
       "projectName": "ProfinetHaberlesme",
-      "projectPath": "C:\\Ismail Projects\\ProfinetHaberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme.csproj",
-      "packagesPath": "C:\\Users\\ismailkasan\\.nuget\\packages\\",
-      "outputPath": "C:\\Ismail Projects\\ProfinetHaberlesme\\ProfinetHaberlesme\\obj\\",
+      "projectPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\Profinet_Haberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme.csproj",
+      "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\Profinet_Haberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ismailkasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -69,7 +65,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -99,8 +94,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -109,7 +103,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

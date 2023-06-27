@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9zHUk7mjVkcEhocsy8moJHw69GFZxX/BRwtEEmwBQK8LMI4QB8If4YqisyOtMTvt6oM82RAsM3P/FLntBI+SJQ==",
+  "dgSpecHash": "jm3XDr58NEQniHowWL//4t+9ugm67oU0bqowW8CqKxkRl3WPLsRzS1sPgZERqCBOiuYRvnYO4W/guuUwPSlLGw==",
   "success": true,
-  "projectFilePath": "C:\\Ismail Projects\\ProfinetHaberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme.csproj",
+  "projectFilePath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\Profinet_Haberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme\\ProfinetHaberlesme.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ismailkasan\\.nuget\\packages\\s7netplus\\0.18.0\\s7netplus.0.18.0.nupkg.sha512"
+    "C:\\Users\\burak\\.nuget\\packages\\s7netplus\\0.18.0\\s7netplus.0.18.0.nupkg.sha512"
   ],
   "logs": []
 }
